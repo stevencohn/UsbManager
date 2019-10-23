@@ -232,6 +232,3 @@ public class UsbStateChangedEventArgs : EventArgs
 	<li>The <code>Disk</code> property is a <code>UsbDisk </code>instance. If <code>State </code>is <code>Added</code>, then all properties of Disk should be populated. However, if <code>State </code>is <code>Removing </code>or <code>Removed</code>, then only the <code>Name </code>property is populated since we can&#39;t detect attributes of a device that no longer exist.</li>
 </ul>
 
-<h2><a name="Conclusion">Conclusion</a></h2>
-
-<p>If you found this article helpful and enjoy the <a href="http://ituner.codeplex.com/">iTuner</a> application, please consider <a href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=rtJovw_M3GUl1asPOGuQPODe_c64F50_ZTq8wM38ayTV7jnCbkpif4fGdAa&amp;dispatch=5885d80a13c0db1fc53a056acd1538874a43d73a07f26b2caf7353d6a9263490">donating</a> to support continual improvements of iTuner and, hopefully, more helpful articles. Thanks!</p>
