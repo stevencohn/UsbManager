@@ -4,7 +4,7 @@ This is a copy of <a href="https://www.codeproject.com/Articles/63878/Enumerate-
 
 List USB devices, monitor online state, using System.Management WMI wrappers
 
-<p><img alt="UsbManager_Demo" border="0" complete="true" height="240" hspace="0" src="images/UsbManagerDemo.png" width="539" /></p>
+<p><img alt="UsbManager_Demo" border="0" complete="true" hspace="0" src="images/UsbManagerDemo.png" /></p>
 
 <h2>Introduction</h2>
 
